@@ -1,0 +1,14 @@
+git clone https://github.com/AgustinG130/Hola-Mundo.git
+git add README.md
+git status
+git commit -m "Commit inicial"
+git status
+git remote add origin https://github.com/AgustinG130/Hola-Mundo.git
+git push
+git push --set-upstream origin main
+git pull
+dotnet new console -n Prueba
+git add Prueba
+git commit -m "Prueba agregada"
+git push
+git pull
