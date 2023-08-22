@@ -12,3 +12,7 @@ git add Prueba
 git commit -m "Prueba agregada"
 git push
 git pull
+git add comandos.txt
+git commit -m "comandos"
+git push
+git pull
